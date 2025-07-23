@@ -1,0 +1,6 @@
+<configuration>
+    <theme>standard</theme> <!-- or 'dark' -->
+    <documentTitle>Automation Report</documentTitle>
+    <reportName>JustDial Test Summary</reportName>
+    <encoding>utf-8</encoding>
+</configuration>
